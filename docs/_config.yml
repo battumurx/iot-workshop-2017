@@ -2,5 +2,6 @@ title: The things network community Mongolia
 theme: jekyll-theme-minimal
 description: > # this means to ignore newlines until "baseurl:"
   jishee medee end
+  {% twitter https://twitter.com/jekyllrb maxwidth=500 limit=5 %}
 twitter_username: ttn_mongolia
 github_username:  erdemnet
