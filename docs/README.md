@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## The things network community Mongolia
+
+
+Энэхүү бүлгэмийн уулзалтаар бид IoT технологи болон ашгийн бус TTN нээлттэй
+  сүлжээний талаар ерөнхий мэдээлэл авах болно. Мөн манайд хэрхэн хэрэглэж болох талаар ярилцаж бизнесийн санаануудаа хуваалцаж болно. Хэрэв амжвал Эрдэмнэт дээр байрлах TTN сүлжээний эхний 2 гарцыг ашиглах агаарын температур болон чийгшил дамжуулагч төхөөрөмжүүдийг хэрхэн програмчлах, хөгжүүлэх талаар мэдээлэл өгч хүссэн хүнд 15 орчим төхөөрөмжийг материалын зардлаар нь зарах болно.
 
 You can use the [editor on GitHub](https://github.com/erdemnet/iot-workshop-2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
