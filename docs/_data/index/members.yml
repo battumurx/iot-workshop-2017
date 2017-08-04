@@ -1,0 +1,18 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Dorj
+  job:
+    detail: CEO ...
+  image: http://unimedia.mn/wp-content/themes/unimedia/img/conference/xspeaker2.png.pagespeed.ic.fvW1omUPO-.webp
+  company:
+    detail: Mongol company
+  icon: fa-plus-square
+
+- name:
+    detail: Dorj
+  job:
+    detail: I worked at Company A ...
+  company:
+    detail: end tend ajilladag
+  icon: fa-plus-square

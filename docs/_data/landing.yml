@@ -1,0 +1,33 @@
+# index page sections
+# custom following lines to edit your index page
+- id: about-me
+  i18n: nav.about_me
+  name: тухай
+  tpl: about.html
+  css:
+
+- id: career
+  i18n: nav.career
+  name: гишүүд
+  tpl: members.html
+  css: timeline
+
+- id: skills
+  i18n: nav.skills
+  name: GATEWAYS
+  tpl: gateways.html
+  css: team
+
+- id: projects
+  i18n: nav.projects
+  name: PARTNERS
+  tpl: projects.html
+  css: project
+
+
+
+- id: links
+  i18n: nav.link
+  name: холбоос
+  tpl: links.html
+  css: contact
