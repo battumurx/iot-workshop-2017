@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## IoT бүлгэмийн уулзалт
 
-You can use the [editor on GitHub](https://github.com/erdemnet/iot-workshop-2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Энэхүү бүлгэмийн уулзалтаар бид IoT технологи болон ашгийн бус TTN нээлттэй сүлжээний талаар ерөнхий мэдээлэл авах болно. Мөн манайд хэрхэн хэрэглэж болох талаар ярилцаж бизнесийн санаануудаа хуваалцаж болно. Хэрэв амжвал Эрдэмнэт дээр байрлах TTN сүлжээний эхний 2 гарцыг ашиглах агаарын температур болон чийгшил дамжуулагч төхөөрөмжүүдийг хэрхэн програмчлах, хөгжүүлэх талаар мэдээлэл өгч хүссэн хүнд 15 орчим төхөөрөмжийг материалын зардлаар нь зарах болно.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
