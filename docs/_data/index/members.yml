@@ -1,18 +1,27 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Dorj
+    detail: А. Эрдэнэбаатар
   job:
-    detail: CEO ...
-  image: http://unimedia.mn/wp-content/themes/unimedia/img/conference/xspeaker2.png.pagespeed.ic.fvW1omUPO-.webp
+    detail: Доктор, профессор
+  image: static/images/erdenebaatar.jpg
   company:
-    detail: Mongol company
+    detail: Мэдээлэл Холбоо Технологийн сургууль
   icon: fa-plus-square
 
 - name:
-    detail: Dorj
+    detail: А. Хүдэр
   job:
-    detail: I worked at Company A ...
+    detail: Дэд профессор
+  image: static/images/huder.jpg
   company:
-    detail: end tend ajilladag
+    detail: Мэдээлэл Холбоо Технологийн сургууль
+  icon: fa-plus-square
+
+- name:
+    detail: Анар
+  job:
+    detail: Багш
+  company:
+    detail: Мэдээлэл Холбоо Технологийн сургууль
   icon: fa-plus-square
